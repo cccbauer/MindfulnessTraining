@@ -32,7 +32,7 @@ Interested in exploring noting practice or participating in our study? Here's ho
 
 ## Additional Resources
 
-For more information on related research, you can refer to the following article:
+For more information on related research, you can refer to the following articles:
 
 - [Mindfulness-based real-time fMRI neurofeedback: a randomized controlled trial to optimize dosing for depressed adolescents](https://doi.org/10.1186/s12888-023-05223-8)
 - [Reducing default mode network connectivity with mindfulness-based fMRI neurofeedback: a pilot study among adolescents with affective disorder history](https://doi.org/10.1038/s41380-023-02032-z)
