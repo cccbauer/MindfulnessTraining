@@ -2,9 +2,8 @@
 
 ## Overview
 
-Welcome to the Noting Practice Instructions. This instructions were first used in - [Bauer et al 2020](https://doi.org/10.1016/j.psychres.2020.112770) an delves into the concept of noting practice, a mindfulness technique where attention is directed in a gentle, non-effortful way towards whatever enters the field of consciousness. Unlike active concentration or deliberate analytical thinking, noting practice involves a passive observation of stimuli, whether they are sounds, sights, or sensations.
+Welcome to the Noting Practice Instructions. This instructions were first used in - [Bauer et al 2020](https://doi.org/10.1016/j.psychres.2020.112770) an delve into the concept of noting practice, a mindfulness technique where attention is directed in a gentle, non-effortful way towards whatever enters the field of consciousness. Unlike active concentration or deliberate analytical thinking, noting practice involves a passive observation of stimuli, whether they are sounds, sights, or sensations.
 
-This project aims to explore how noting practice can influence our awareness and perception, highlighting the differences between active engagement with stimuli and passive, effortless observation.
 
 ## Part 1: Understanding Noting Practice
 
@@ -12,13 +11,13 @@ This project aims to explore how noting practice can influence our awareness and
 
 Noting practice is a form of mindfulness meditation that involves passively acknowledging whatever comes into your awareness without engaging in further analysis, judgment, or interpretation. For instance, if you hear the sound of a voice, you simply note "hearing" without trying to identify the speaker or the content of what is being said. This approach helps cultivate a state of open receptivity, allowing experiences to arise and pass without effort.
 
-### The Experiment
+### The Instructions
 
-Our experiments are structured to guide participants through various exercises emphasizing the distinction between passive noting and active engagement. Through these exercises, we aim to investigate how individuals can cultivate and benefit from a noting practice in their daily lives.
+Our instructioons are structured to guide participants through various exercises emphasizing the distinction between passive noting and active engagement. Through these exercises, we aim to investigate how individuals can cultivate and benefit from a noting practice in their daily lives.
 
 ## Getting Started
 
-Interested in exploring noting practice or participating in our study? Here's how you can get involved:
+Interested in exploring noting practice or participating in our study? Here's how you can use it:
 
 ### Participation
 
@@ -28,8 +27,8 @@ Interested in exploring noting practice or participating in our study? Here's ho
 
 ### Tools and Resources
 
-- **Guided Audio Sessions:** Some exercises may include guided audio sessions designed to facilitate your noting practice.
-- **Feedback Forms:** Participants will have access to forms to document and share their experiences and insights throughout the study.
+- **Guided Audio Sessions:** Some exercises include audio rrecordings of stories to help facilitate your noting practice in daily life.
+- **Checklist Forms:** Exoperimenters will have access to forms to document and share the trining progress.
 
 ## Additional Resources
 
@@ -42,4 +41,4 @@ Contributions from researchers, practitioners of mindfulness, and enthusiasts ar
 
 ## Contact
 
-For more information, questions, or to contribute, please contact [Your Contact Information].
+For more information, questions, or to contribute, please contact [c.bauer[at]northeastern.edu].
