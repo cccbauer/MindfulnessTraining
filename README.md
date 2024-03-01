@@ -33,7 +33,11 @@ Interested in exploring noting practice or participating in our study? Here's ho
 ## Additional Resources
 
 For more information on related research, you can refer to the following article:
-- [Noting Practice in Mindfulness Meditation and Its Effect on Inattentional Blindness](https://doi.org/10.1016/j.psychres.2020.112770)
+
+- [Mindfulness-based real-time fMRI neurofeedback: a randomized controlled trial to optimize dosing for depressed adolescents](https://doi.org/10.1186/s12888-023-05223-8)
+- [Reducing default mode network connectivity with mindfulness-based fMRI neurofeedback: a pilot study among adolescents with affective disorder history](https://doi.org/10.1038/s41380-023-02032-z)
+- [Real-time fMRI neurofeedback reduces auditory hallucinations and modulates resting state connectivity of involved brain regions: Part 2: Default mode network -preliminary evidence](https://doi.org/10.1016/j.psychres.2020.112770)
+- [Real-time fMRI feedback impacts brain activation, results in auditory hallucinations reduction: Part 1: Superior temporal gyrus -Preliminary evidence-](https://doi.org/10.1016/j.psychres.2020.112862)
 
 ## Contributing
 
